@@ -1,0 +1,48 @@
+.headline {    
+    display: flex;
+    justify-content: center;
+}
+
+.directory-box {
+
+}
+
+.directory-entry {
+
+}
+
+.site-update-box {
+
+}
+
+.site-update-entry {
+
+}
+
+.article-box {
+    height: calc(80vh - 100px);
+}
+
+.article-header {
+
+}
+
+.article-body {
+
+}
+
+.footer-box {
+    justify-content: center;
+}
+
+.footer-content {
+
+}
+
+
+.logo-box {
+
+}
+
+
+
