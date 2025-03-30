@@ -1,10 +1,11 @@
 .headline {    
     display: flex;
     justify-content: center;
+    background-color: #ff71ce;
 }
 
 .directory-box {
-
+    background-color: #fffb96;
 }
 
 .directory-entry {
@@ -12,15 +13,15 @@
 }
 
 .site-update-box {
-
+    background-color: #b967ff;
 }
 
 .site-update-entry {
 
 }
 
-.article-box {
-    height: calc(80vh - 100px);
+.article-box {    
+    background-color: #05ffa1;
 }
 
 .article-header {
@@ -31,18 +32,21 @@
 
 }
 
-.footer-box {
-    justify-content: center;
-}
-
-.footer-content {
-
-}
-
 
 .logo-box {
-
+    background-image: "/assets/images/autumn_leaves_tile.png";
+    background-repeat: repeat;
 }
 
+.footer-box {
+    justify-content: center;
+    background-color: #01cdfe;
+}
+
+
+.body {
+    background-image: "/assets/images/autumn_leaves_tile.png";
+    background-repeat: repeat;
+}
 
 
