@@ -11,9 +11,9 @@
         <script src="https://techytrickster.neocities.org/load-markdown-document.js"></script>
     </head>
 
-    <body class = "vh-100">        
-        <div id = "header" class="container mb-4">
-            <h1 class = "headline container border border-2 rounded-bottom-4 item">A Techy Domain</h1>
+    <body class = "vh-100"  onload = "getMarkDownPage('https://techytrickster.neocities.org/landing-page.md', 'article')">
+        <div id = "header" class="container headline border border-2 rounded-bottom-4 item mb-4">
+            <h1>A Techy Domain</h1>
         </div>
 
         <div id = "main" class = "container">
@@ -30,13 +30,13 @@
                         
                     </div>                    
 
-                    <div id = "lower-logo" class = "container border border-2 rounded-start-4 border">
+                    <div id = "lower-logo" class = "logo-box container border border-2 rounded-start-4 border">
                         stuff
                     </div>
                 </div>
 
-                <div class = "col border border-2">
-                    <div id="article" class = "article-box overflow-auto" onload = "getMarkDownPage('https://techytrickster.neocities.org/landing-page.md', 'article')">
+                <div class = "col article-box border border-2">
+                    <div id="article" class = "overflow-auto">
                         example Text
                     </div>
                 </div>
@@ -49,7 +49,7 @@
             </div>            
         </div>
 
-        <div id="footer" class = "container border border-2 rounded-top-3 footer-box mb-4 mt-3">
+        <div id="footer" class = "d-flex footer-box container border border-2 rounded-top-3 mb-4 mt-3">
             contact me
             <br>
             techytrickster@gmail.com
