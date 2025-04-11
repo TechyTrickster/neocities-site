@@ -14,4 +14,4 @@ The site I've built here reflects my design philosophy, which is that applicatio
 I've worked on everything from creative writing, to 3D printing, to coding, and even art!  I hope what you find here will tell you about my own capabilities as well as inspire you to work on (or more likely *keep* working on) your own projects!
 
 ---
-![hosted by neocities](https://techytrickster.neocities.org/neocities.png)
+![hosted by neocities](/neocities.png)
