@@ -19,13 +19,19 @@ This site is three things
 2. an exercise in learning static site web development
 3. a writing exercise
 
-I've written the entirety of this site myself.  No static site generator was used, instead, I essentially wrote my own. (I think?  More research needed...)  Content is authored for this site in Markdown, with a templated metadata block which gets read by a site digest generator that provides the data needed for the website frontend to populate with content.  Going in, I didn't have much experience doing web development.  I took a 3 month crash course in it years ago, but it was pretty heavily guided.  This wasn't...  The site is built on HTML 5, CSS, Javascript, React (JSX, specifically), python (offline site digest generation), and Markdown (content format).
+I've written the entirety of this site myself.  No static site generator was used, instead, I essentially wrote my own. (I think?  More research needed...)  Content is authored for this site in Markdown, with a templated metadata block which gets read by a site digest generator that provides the data needed for the website frontend to populate with content.  Going in, I didn't have much experience doing web development.  I took a 3 month crash course in it years ago, but it was pretty heavily guided.  This wasn't...  The site is built on HTML 5, CSS, Bootstrap (a style package), Javascript, React (JSX, specifically), python (offline site digest generation), and Markdown (content format).
 
 As a side note, and I'm sure that quite a few other web developers, both new and experienced will agree; there are **WAY TOO MANY JAVASCRIPT LIBRARIES**.  I know how we got here...  
 
 ![xkcd page 927, Standards](https://imgs.xkcd.com/comics/standards.png)
 
 This is just me, spit balling ideas, but maybe we should do something different.  Instead of constantly coming up with new standards, over and over again, maybe we should look at whats *already out there* and try to find something that can cover all our needs *reasonably well* and then forget the rest.
+
+
+### Plans
+
+---
+I plan to eventually start maintaining a separate version of this repo, with all my own content pages stripped out so that people can use my site templates for their own purposes.  I think I'll start on that once I've finished the project and caught up on documenting my own projects.  
 
 
 ### Site Operation Instructions
