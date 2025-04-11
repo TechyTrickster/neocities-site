@@ -1,0 +1,104 @@
+<html lang="en">
+    <head>
+        <title>Project Categories</title>
+        <link href="/assets/css/main.css" rel="stylesheet" type="text/css" media="all">
+        <meta charset = "utf-8">
+        <meta name = "viewport" content = "width=device-width, initial-scale=1">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+        <link href="/favicon.ico" rel="favicon">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        <script src="https://cdn.rawgit.com/showdownjs/showdown/2.1.0/dist/showdown.min.js"></script>
+        <script src="/assets/javascript/load-markdown-document.js"></script>
+        <script src="/assets/javascript/populate-content-overview.js"></script>
+
+        <!-- <script src="https://unpkg.com/react@15.4.2/dist/react.js"></script>
+        <script src="https://unpkg.com/react-dom@15.4.2/dist/react-dom.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-core/5.8.29/browser.js"></script> -->
+
+        <!-- <script type = "text/babel">
+            const Entry = (props) =>
+                <div id="entryX" class = "container row rounded-4 p-3 m-2" style = "background-color: antiquewhite;">
+                    <div className = "container col-3 rounded-3 m-2">
+                        <img src={props.heroImage}></img>
+                    </div>
+                    <div class = "container col rounded-3 m-2">
+                        <h3>{props.title}</h3>
+                        <span>{props.createdOn}</span>
+                        <span>{props.modifiedOn}</span>
+                        <span>{props.author}</span>
+                        <p>{props.description}</p>    
+                    </div>
+                </div>
+
+            
+        </script> -->
+
+        <script>
+            function loadPageContent() {
+                var params = new URL(document.URL).searchParams
+                var category = params.get("category")
+                var categoryBlurb = ""
+
+                switch(category) 
+                {
+                    case 'coding':
+                        categoryBlurb = 'coding-info'
+                        break;
+                    case '3d-printing':
+                        categoryBlurb = '3d-printing-info'
+                        break;
+                    case 'games':
+                        categoryBlurb = 'gaming-info'
+                        break;
+                    case 'art':
+                        categoryBlurb = 'art-info'
+                        break;
+                    case 'writing':
+                        categoryBlurb = 'writing-info'
+                        break;
+                    case 'blog':
+                        categoryBlurb = 'blog-info'
+                        break;
+                }
+                
+                var infoURI = '/content/main/category-blurbs/' + categoryBlurb + '.md'
+                console.log(infoURI)
+                getHeroContent(infoURI, 'info')
+                document.title = category
+
+                // load page content
+                populate("/content.json", "main", "entryX")
+
+            }
+        </script>
+    </head>
+
+    <body onload = "loadPageContent()">
+        <div id = "header" class="container shadow-lg headline rounded-bottom-4 item mb-4">
+            <h1>A Techy Domain</h1>
+        </div>
+
+        <div id = "main" class = "container rounded-4 p-2" style = "background-color: orange;">
+            <div id="info" class = "container row rounded-4 p-3 m-2" style = "background-color: antiquewhite;">
+                test
+            </div>
+
+            <div id="entryX" class = "container row rounded-4 p-3 m-2" style = "background-color: antiquewhite;">
+                <div class = "container col-3 rounded-3 m-2">
+                    <img id = "heroImage" src="/assets/images/test-image.jpg">
+                </div>
+
+                <div class = "container col rounded-3 m-2">
+                    <h3 id = "title">title</h3>
+                    <span id = "creationDate">creation date</span>
+                    <span id = "modificationDate">last updated</span>
+                    <span id = "author">author</span>
+                    <p id = "description">description</p>    
+                </div>
+                
+
+            </div>                
+
+        </div>
+    </body>
+</html>
