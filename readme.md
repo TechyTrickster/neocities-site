@@ -53,7 +53,7 @@ this will create the new site digest, making your new article viewable on the si
 3. create the topic directory template
 	1. brush up on enough react code to do this
 4. finish documenting all my projects
-5. compress all the hosted images on the site to improve loading times and reduce page memory footprint
+5. ==compress all the hosted images on the site to improve loading times and reduce page memory footprint==
 6. finish writing site inventory script
 
 
