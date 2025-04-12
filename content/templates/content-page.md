@@ -1,13 +1,13 @@
 ---
 title: 
 summary: 
-created-on: 
-last-modified: 
+created_on: 
+last_modified: 
 author: 
 category: 
 link: 
 tags: 
-hero-image:
+hero_image:
 ---
 
 ### Header
