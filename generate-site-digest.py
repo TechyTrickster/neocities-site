@@ -4,6 +4,7 @@ from functools import reduce
 from markdown import Markdown
 
 
+
 projectName = "neocities-site"
 originalDir = os.getcwd()
 scriptPath = Path(__file__)
@@ -13,6 +14,8 @@ potentials = list(map(lambda x : moveUpDegrees(scriptPath, x), range(0, len(scri
 rootDir: Path = list(filter(lambda x : x.name == projectName, potentials))[-1] #should always grab the shortest possible, and therefore most likely to be actual root path, even if the root directory name was reused.
 sys.path.append(str(rootDir))
 sys.path = sorted(list(set(sys.path)))
+
+import full_yaml_metadata
 
 
 def findFiles(dir: Path) -> list[Path]:
@@ -37,12 +40,16 @@ def findFiles(dir: Path) -> list[Path]:
 
 
 def getMetaData(filePath: Path) -> dict:
-    converter = Markdown(extensions = ['meta'])
+    converter = Markdown(extensions = ['full_yaml_metadata'])
     inputHandle = open(filePath, "r")
     text = inputHandle.read()
     inputHandle.close()
     data = converter.convert(text)
-    output = converter.Meta
+    output = {} if converter.Meta == None else converter.Meta
+    print("JSON DATA")
+    print(output)
+    print("PATH")
+    print(filePath)
     output["path"] = "/" + str(filePath)
     return output
 
