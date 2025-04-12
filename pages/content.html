@@ -13,12 +13,10 @@
         <script>
             function loadPageContent() {
                 var params = new URL(document.URL).searchParams
-                var category = params.get("category")
-                var folder = params.get("folder")
-                var pageName = params.get("article")
-                var contentURI = "/content/articles" + "/" + category + "/" + folder + "/" + pageName + ".md"
-                console.logt(contentURI)
-                getHeroContent(contentURI, 'content')
+                var path = decodeURIComponent(params.get("path"))
+                console.log("content url")
+                console.log(path)
+                getHeroContent(path, 'content')
             }
         </script>
     </head>
