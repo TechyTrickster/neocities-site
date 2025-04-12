@@ -1,14 +1,16 @@
 ---
 title: 3d printing info
 summary: an overview of my 3d printing projects
-created-on: April 2nd, 2025 4:58 PM CST
-last-modified: April 2nd, 2025 4:58 PM CST
+created_on: April 2nd, 2025 4:58 PM CST
+last_modified: April 2nd, 2025 4:58 PM CST
 author: Andrew Phifer
 category: main
 link: 
 tags:
   - information
-hero-image: /content/main/category-blurbs/3d-printing-hero-image.jpg
+  - 3D-Printing
+  - Maker
+hero_image: /content/main/category-blurbs/3d-printing-hero-image.jpg
 ---
 
 ### [3D Printing](/pages/topic_directory.html?category=3d-printing)
