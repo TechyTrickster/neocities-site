@@ -39,7 +39,7 @@
             <div className = "container row rounded-3 m-2" style = {{backgroundColor: "antiquewhite"}}>
                 <img src = {hero_image} className = "col-5 container rounded-3 p-3"></img>
                 <div className = "container col p-3">
-                    <h3><a href={'/pages/content.html?=' + encodeURIComponent(path)}>{title}</a></h3>
+                    <h3><a href={'/pages/content.html?path=' + encodeURIComponent(path)}>{title}</a></h3>
                     <span>created on: {created_on}   </span>
                     <span>modified on: {last_modified}   </span>
                     <br/>
