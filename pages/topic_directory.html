@@ -20,18 +20,18 @@
   </head>
 
   <body>
-    <div id = "header" class="container shadow-lg headline rounded-bottom-4 item mb-4">
-        <h1>A Techy Domain</h1>
+    <div id = "header" class="container shadow-lg headline rounded-bottom-4 item mb-4 pt-3">
+        <h1><a href = "/pages/home_page.html">A Techy Domain</a></h1>
     </div>
 
     <div id = "main" class = "container rounded-4 p-2" style = "background-color: orange;"></div>        
 
     <script type="text/babel">        
         var params = new URL(document.URL).searchParams
-        var category = params.get("category")        
-        var infoURI = mapQueryWithContent(category)
-        document.title = category                          
-        console.log(category)
+        var pageCategory = params.get("category")        
+        var infoURI = mapQueryWithContent(pageCategory)
+        document.title = pageCategory                          
+        console.log(pageCategory)
         console.log(infoURI)
 
         // A stateless functional component for an individual Recipe
@@ -49,19 +49,17 @@
                 </div>
             </div>
         
-
         // A stateless functional component for the Menu of Recipes
         const Listing = ({info, articles}) =>
             <div className = "container">
                 <div id = "info" className = "container row rounded-4 p-3 m-2" style = {{backgroundColor: "antiquewhite"}} dangerouslySetInnerHTML={{__html: info}}></div>
                 <div className = "ArticleEntries">
-                    {articles.map((contentPiece, i) => 
+                    {articles.filter((contentPiece, i) => ("category" in contentPiece) && (contentPiece.category != null) && (contentPiece.category.toLocaleLowerCase() == pageCategory.toLocaleLowerCase())).map((contentPiece, i) => 
                         <ArticleEntry key={i} {...contentPiece}/>
                     )}
                 </div>
             </div>
         
-
         var headerMarkDownRequest = new Request(infoURI)
         fetch(headerMarkDownRequest)
             .then((response) => response.text()) //load header data
