@@ -12,10 +12,8 @@ var getMarkDownPage = (pageName, target) => {
 
 
 var markDownApply = (text, targetID) => {
-    var metaData, data = markDownFullDecode(text)
-    document.getElementById(targetID).innerHTML = data;    
-    console.log(htmlData)
-    console.log(pageContent)
+    var metaData, htmlData = markDownFullDecode(text)
+    document.getElementById(targetID).innerHTML = htmlData;    
     return metaData
 }
 
@@ -29,11 +27,6 @@ var markDownFullDecode = (text) =>
     converter.setFlavor('github')
     var htmlData = converter.makeHtml(pageContent);    
     var metaData = converter.getMetadata()
-    console.log(htmlData)
-    console.log(pageContent)
-    console.log("test")
-    console.log(metaData)
-    console.log("end")
     return metaData, htmlData
 }
 
