@@ -48,7 +48,7 @@
             </div>
 
         const NavElement = ({display, category}) =>
-            <div className = "container col shadow-lg rounded-4 m-2 p-3" style = {{backgroundColor: "antiquewhite"}}>
+            <div className = "container col shadow-lg rounded-4 m-2 p-3" style = {{display: "flex", justifyContent: "center", backgroundColor: "antiquewhite"}}>
                 <a href = {"/pages/topic_directory.html?category=" + encodeURIComponent(category)}>{display}</a>
             </div>
 
