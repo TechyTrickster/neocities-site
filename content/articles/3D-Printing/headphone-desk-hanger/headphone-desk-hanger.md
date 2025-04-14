@@ -1,15 +1,18 @@
 ---
 title: headphone desk hanger
 summary: why buy something when you can make it yourself?
-created_on: 09/07/2024 05:04PM CDT
-last_modified: 25/09/2024 01:59PM CDT
+created_on: July 8th, 2024 3:33 PM CDT
+last_modified: April 13th, 2025 11:50 PM CST
 author: Andrew Phifer
-link: NA
+link: https://cad.onshape.com/documents/f666320b7505d0ef89eb932e/w/e22aebeef3951fb0268e9b17/e/c46361d84dda453b82d53174
 folder: maker
 category: 3D-Printing
 tags:
   - 3D-Printing
-hero_image:
+  - PLA
+  - headphones
+  - desk-accessories
+hero_image: /content/articles/3D-Printing/headphone-desk-hanger/desk-hanger-final-1.jpg
 ---
 
 
@@ -20,5 +23,5 @@ The design i came up with is essentially a fancy number 5.  The small slot at th
 
 This print has one more major issue, though; Cost!  I massively overbuilt this thing with a 50% infill!  this cost about 5 dollars worth of filament!! yikes!  In the future, I'll print it with much less infill (and using a gyroid infill instead of rectilinear since its on average stronger) and probably at a smaller size.  Its a very large part and it plainly doesn't need to be.
 
-![assembly](/data/maker/headphone-desk-hanger/desk-hanger-assembly-1.jpg)
-![final product](/data/maker/headphone-desk-hanger/desk-hanger-final-1.jpg)
+![assembly](/content/articles/3D-Printing/headphone-desk-hanger/desk-hanger-assembly-1.jpg)
+![final product](/content/articles/3D-Printing/headphone-desk-hanger/desk-hanger-final-1.jpg)

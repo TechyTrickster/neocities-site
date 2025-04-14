@@ -1,10 +1,10 @@
 ---
 title: 3D Printed Cardboard Molds
 summary: adventures in soggy, homemade cardboard
-created_on: 09/14/2024 11:37PM CDT
+created_on: 07/25/2024 3:17PM CDT
 last_modified: 09/06/2024 11:39PM CDT
 author: Andrew Phifer
-link: NA
+link: https://cad.onshape.com/documents/84c34be94a5d863eddb4cddf/w/2b0c574001d1cabbb4da6d5e/e/3fc0e352ef14834f08446e16
 category: 3D-Printing
 tags:
   - 3D-Printing

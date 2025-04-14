@@ -1,13 +1,13 @@
 ---
 title: printer brackets
 summary: keeping my printer from falling to the floor!
-created_on: 24/09/2024 05:04PM CDT
-last_modified: 24/09/2024 10:59PM CDT
+created_on: September 24th, 2024 6:09 PM CDT
+last_modified: April 13th, 2025 11:57 PM CST
 author: Andrew Phifer
-link: NA
+link: https://cad.onshape.com/documents/3b6f6e154e23f4216f90184d/w/a3dcf286243c62fc4089bbc3/e/7bee1b184952ec87665a0dfe
 folder: maker
 category: 3D-Printing
-hero_image: 
+hero_image: /content/articles/3D-Printing/printer-brackets/printer-bracket.jpg
 tags:
   - 3D-Printing
 ---
@@ -18,4 +18,4 @@ tags:
 
 Amazingly, against all odds, I got the dimensions and design right the first try!!!
 
-![bracket](/data/maker/printer-brackets/printer-bracket.jpg)
+![bracket](/content/articles/3D-Printing/printer-brackets/printer-bracket.jpg)

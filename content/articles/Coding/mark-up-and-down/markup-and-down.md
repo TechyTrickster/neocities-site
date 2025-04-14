@@ -2,9 +2,9 @@
 title: markdown and up
 summary: sidestepping the one more standard problem for markdown
 created_on: 27/08/2024 01:01PM CDT
-last_modified: 09/09/2024 11:38PM CDT
+last_modified: April 14th, 2025 12:01 PM CST
 author: Andrew Phifer
-link: NA
+link: https://github.com/TechyTrickster/markdown-and-up
 folder: software
 category: coding
 hero_image: 
@@ -23,7 +23,7 @@ I started this project for two reasons.
 
 The approach I've been taking has been tailored to avoid the whole "one standard to rule them all" problem.  
 
-![one more standard](/data/software/mark-up-and-down/xkcd-standards.png)[^1]
+![one more standard](/content/articles/coding/mark-up-and-down/xkcd-standards.png)[^1]
 
 
 Instead of making a new standard, what i've instead done is create an application to simply support all of them, all in a single application.  This eliminates the common problem with authoring markdown documents and not knowing for *sure* what they're going to look like on someone else's system.  

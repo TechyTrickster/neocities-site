@@ -1,10 +1,10 @@
 ---
 title: Chip Clip
 summary: an exercise in product design
-created_on: 21/07/2024 05:04PM CDT
-last_modified: 25/09/2024 01:59PM CDT
+created_on: 7/9/2024 6:18P M CDT
+last_modified: 9/25/2024 1:59 PM CDT
 author: Andrew Phifer
-link: NA
+link: https://cad.onshape.com/documents/3cf6f5d094ffb44aeb5e7d9a/w/1764d5b8266154f21bd91c90/e/1fc2d5be7702738a9ee455bb
 category: 3D-Printing
 tags:
   - 3D-Printing

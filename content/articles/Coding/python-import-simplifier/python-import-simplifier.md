@@ -2,7 +2,7 @@
 title: Python Import Simplifier
 summary: a handy import code block for all your projects
 created_on: 01/04/2024 01:04PM CDT
-last_modified: 09/06/2024 04:39PM CDT
+last_modified: April 14th, 2025 12:05 PM CST
 author: Andrew Phifer
 link: NA
 folder: software
@@ -16,7 +16,7 @@ tags:
   - path
 ---
 
-
+### Python Import Simplifier
 ----
 
 Large python projects can often be difficult to deal with for a number of reasons.  One of them is the way the language handles importing custom source code files.  Typically, a python source code file can only import other source code files from deeper into the folder / project hierarchy.  If you want to import something from higher up, things get tricky.  Thats where this neat little code block comes in.  

@@ -1,8 +1,8 @@
 ---
-title: This Website!
+title: Old Website
 summary: an ~~excuse~~ excercise to learn web development
 created_on: 29/07/2024 01:00PM CDT
-last_modified: 14/08/2024 01:34PM CDT
+last_modified: April 14th, 2025 12:02 PM CST
 author: Andrew Phifer
 link: https://github.com/TechyTrickster/personal_page
 folder: software
@@ -15,13 +15,13 @@ tags:
   - javascript
   - markdown
   - web-development
+  - WTForms
+  - bootstrap
 hero_image:
 ---
 
 
-# This Website! {#Title}
-##### [github](https://github.com/TechyTrickster/personal_page) {#Link}
-
+# This Website!
 ---
 
 ###### Introduction
@@ -49,11 +49,11 @@ Currently, you have to manually modifiy the home page and seperately update a re
 
 The markdown documents for projects require you to include some standardized meta-data at the top of the page.  this info is stripped out and written to the database to be used to load fields in the project page template.  Here is an example
 
-![project template](/data/software/this_web_site/project-page-meta-data.png)
+![project template](/content/articles/coding/old_portfolio_site/project-page-meta-data.png)
 
 You'll need to add those tags.  The system will, for example, use the data in the title tag to generate the text in the page header, like this
 
-![project-in-action](/data/software/this_web_site/how-meta-data-is-used.png)
+![project-in-action](/content/articles/coding/old_portfolio_site/how-meta-data-is-used.png)
 
 
 ###### Header Features
