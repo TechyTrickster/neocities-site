@@ -1,13 +1,14 @@
 ---
-title: home page 
+title: home page
 summary: a brief introduction of this website
-created-on: March 29th, 2025 3:09PM CST
-last-modified: March 30th, 2025 8:50PM CST
+created_on: March 29th, 2025 3:09PM CST
+last_modified: March 30th, 2025 8:50PM CST
 author: Andrew Phifer
 link: 
 categories: main
-tags: information
-hero-image:
+tags:
+  - information
+hero_image:
 ---
 
 

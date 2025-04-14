@@ -1,10 +1,10 @@
 ---
 title: Stellar Star Fighter
 summary: A simple (and bespoke engine) Shmup in the classic 8-bit style
-created-on: March 31st, 2025 12:01 PM CST
-last-modified: April 2nd, 2025 12:28 PM CST
+created_on: March 31st, 2025 12:01 PM CST
+last_modified: April 2nd, 2025 12:28 PM CST
 author: Andrew Phifer
-category: Video-Games
+category: games
 link: 
 tags:
   - video-games

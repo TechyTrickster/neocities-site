@@ -1,14 +1,14 @@
 ---
 title: art info
 summary: an overview of my art projects
-created-on: April 3rd, 2025 11:06 PM CST
-last-modified: April 3rd, 2025 11:06 PM CST
+created_on: April 3rd, 2025 11:06 PM CST
+last_modified: April 3rd, 2025 11:06 PM CST
 author: Andrew Phifer
 category: main
 link: 
 tags:
   - information
-hero-image:
+hero_image:
 ---
 
 ### [Art](/pages/topic_directory?category=art)

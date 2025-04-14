@@ -1,11 +1,15 @@
 ---
 title: Miyoo Mini Plus Case
 summary: Heres my professional life story
-created-on: 09/06/2024 04:04PM CDT
-last-modified: 09/06/2024 04:39PM CDT
+created_on: 09/06/2024 04:04PM CDT
+last_modified: 09/06/2024 04:39PM CDT
 author: Andrew Phifer
 link: NA
 folder: maker
+category: 3D-Printing
+tags:
+  - 3D-Printing
+hero_image:
 ---
 
 ----

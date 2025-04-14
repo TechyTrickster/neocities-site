@@ -1,14 +1,14 @@
 ---
 title: writing info
 summary: an overview of my writing projects
-created-on: April 3rd, 2025 10:45 PM CST
-last-modified: April 3rd, 2025 10:45 PM CST
+created_on: April 3rd, 2025 10:45 PM CST
+last_modified: April 3rd, 2025 10:45 PM CST
 author: Andrew Phifer
 category: main
 link: 
 tags:
   - information
-hero-image:
+hero_image:
 ---
 
 ### [Writing](/pages/topic_directory?category=writing)

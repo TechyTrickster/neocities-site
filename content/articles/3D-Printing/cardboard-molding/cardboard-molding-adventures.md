@@ -1,8 +1,8 @@
 ---
 title: 3D Printed Cardboard Molds
 summary: adventures in soggy, homemade cardboard
-created-on: 09/14/2024 11:37PM CDT
-last-modified: 09/06/2024 11:39PM CDT
+created_on: 09/14/2024 11:37PM CDT
+last_modified: 09/06/2024 11:39PM CDT
 author: Andrew Phifer
 link: NA
 category: 3D-Printing
@@ -11,7 +11,7 @@ tags:
   - Maker
   - PLA
   - Cardboard
-hero-image: /content/articles/3D-Printing/cardboard-molding/first-cardboard-molded-part.jpg
+hero_image: /content/articles/3D-Printing/cardboard-molding/first-cardboard-molded-part.jpg
 ---
 
 

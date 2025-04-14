@@ -1,14 +1,14 @@
 ---
 title: games info
 summary: an overview of my gaming projects
-created-on: April 2nd, 2025 5:21 PM CST
-last-modified: April 2nd, 2025 5:21 PM CST
+created_on: April 2nd, 2025 5:21 PM CST
+last_modified: April 2nd, 2025 5:21 PM CST
 author: Andrew Phifer
 category: main
 link: 
 tags:
   - information
-hero-image:
+hero_image:
 ---
 
 ### [Games](/pages/topic_directory?category=games)

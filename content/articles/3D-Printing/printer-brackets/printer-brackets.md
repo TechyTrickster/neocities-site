@@ -1,11 +1,15 @@
 ---
 title: printer brackets
 summary: keeping my printer from falling to the floor!
-created-on: 24/09/2024 05:04PM CDT
-last-modified: 24/09/2024 10:59PM CDT
+created_on: 24/09/2024 05:04PM CDT
+last_modified: 24/09/2024 10:59PM CDT
 author: Andrew Phifer
 link: NA
 folder: maker
+category: 3D-Printing
+hero_image: 
+tags:
+  - 3D-Printing
 ---
 
 

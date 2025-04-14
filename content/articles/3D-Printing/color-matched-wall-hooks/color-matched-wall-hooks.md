@@ -1,11 +1,15 @@
 ---
 title: Color Matched Wall Hooks
 summary: small, easy to use adhesive wall hooks, matched to any wall color!
-created-on: 09/14/2024 10:42PM CDT
-last-modified: 09/14/2024 10:43PM CDT
+created_on: 09/14/2024 10:42PM CDT
+last_modified: 09/14/2024 10:43PM CDT
 author: Andrew Phifer
 link: NA
 folder: maker
+category: 3D-Printing
+hero_image: 
+tags:
+  - 3D-Printing
 ---
 
 

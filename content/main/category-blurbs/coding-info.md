@@ -1,14 +1,14 @@
 ---
 title: coding category info
 summary: overview of my coding projects
-created-on: April 2nd, 2025 2:37 PM CST
-last-modified: April 2nd, 2025 2:37 PM CST
+created_on: April 2nd, 2025 2:37 PM CST
+last_modified: April 2nd, 2025 2:37 PM CST
 author: Andrew Phifer
 category: main
 link: 
 tags:
   - information
-hero-image:
+hero_image:
 ---
 
 ### [Coding Projects](/pages/topic_directory?category=coding)

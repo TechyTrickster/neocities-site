@@ -1,11 +1,21 @@
 ---
 title: This Website!
 summary: an ~~excuse~~ excercise to learn web development
-created-on: 29/07/2024 01:00PM CDT
-last-modified: 14/08/2024 01:34PM CDT
+created_on: 29/07/2024 01:00PM CDT
+last_modified: 14/08/2024 01:34PM CDT
 author: Andrew Phifer
 link: https://github.com/TechyTrickster/personal_page
 folder: software
+category: coding
+tags:
+  - coding
+  - python
+  - html
+  - css
+  - javascript
+  - markdown
+  - web-development
+hero_image:
 ---
 
 

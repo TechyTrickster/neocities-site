@@ -1,11 +1,19 @@
 ---
 title: Python Import Simplifier
 summary: a handy import code block for all your projects
-created-on: 01/04/2024 01:04PM CDT
-last-modified: 09/06/2024 04:39PM CDT
+created_on: 01/04/2024 01:04PM CDT
+last_modified: 09/06/2024 04:39PM CDT
 author: Andrew Phifer
 link: NA
 folder: software
+hero_image: 
+category: coding
+tags:
+  - coding
+  - python
+  - snippet
+  - quality-of-life
+  - path
 ---
 
 

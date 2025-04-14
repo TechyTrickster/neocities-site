@@ -1,8 +1,8 @@
 ---
 title: angle finder
 summary: need a tool, make a tool
-created-on: 22/09/2024 05:04PM CDT
-last-modified: 25/09/2024 01:59PM CDT
+created_on: 22/09/2024 05:04PM CDT
+last_modified: 25/09/2024 01:59PM CDT
 author: Andrew Phifer
 link: NA
 category: 3D-Printing
@@ -11,7 +11,7 @@ tags:
   - Maker
   - PLA
   - Stationary
-hero-image: /content/articles/3D-Printing/angle-finder/angle-finder-prototype.jpg
+hero_image: /content/articles/3D-Printing/angle-finder/angle-finder-prototype.jpg
 ---
 
 ----

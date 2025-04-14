@@ -1,11 +1,15 @@
 ---
 title: headphone desk hanger
 summary: why buy something when you can make it yourself?
-created-on: 09/07/2024 05:04PM CDT
-last-modified: 25/09/2024 01:59PM CDT
+created_on: 09/07/2024 05:04PM CDT
+last_modified: 25/09/2024 01:59PM CDT
 author: Andrew Phifer
 link: NA
 folder: maker
+category: 3D-Printing
+tags:
+  - 3D-Printing
+hero_image:
 ---
 
 

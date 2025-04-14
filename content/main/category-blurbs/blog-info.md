@@ -1,14 +1,14 @@
 ---
 title: blog info
 summary: an overview of my personal blog
-created-on: April 3rd, 2025 10:33 PM CST
-last-modified: April 3rd, 2025 10:33 PM CST
+created_on: April 3rd, 2025 10:33 PM CST
+last_modified: April 3rd, 2025 10:33 PM CST
 author: Andrew Phifer
 category: main
 link: 
 tags:
   - information
-hero-image:
+hero_image:
 ---
 
 ### [Personal Blog](/pages/topic_directory?category=blog)

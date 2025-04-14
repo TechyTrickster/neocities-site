@@ -1,11 +1,20 @@
 ---
 title: National Weather Service
 summary: a terminal toy for displaying the weather
-created-on: 05/1/2021 02:04PM CDT
-last-modified: 31/07/2024 04:59PM CDT
+created_on: 05/1/2021 02:04PM CDT
+last_modified: 31/07/2024 04:59PM CDT
 author: Andrew Phifer
 link: https://github.com/TechyTrickster/Weather-Terminal
 folder: software
+category: coding
+hero_image: 
+tags:
+  - coding
+  - bash
+  - weather
+  - national-weather-service
+  - terminal
+  - terminal-toy
 ---
 
 # National Weather Service Terminal Toy {#Title}

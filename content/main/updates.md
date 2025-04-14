@@ -15,6 +15,7 @@ hero_image:
 
 ---
 
+* April 13th, 2025: finished implementing all basic site directory.  all thats left is refinement and writing content
 * April 12th, 2025: got a draft of the topic directory page working with react code.  greatly improved the formatting of the topic directory page. (still needs a lot of work! such as page category filtering)  identified a large meta data formatting issue.  will need to update every markdown file on the site.
 * April 11th, 2025: finally commited my huge backlog of changes to github.  hadn't pushed since end of March...  Wrote readme page for github.  continued writing react code for topic directory page template.
 * April 9th, 2025: got the topic directory page to load its headline content based on input query.  shifted URI model from mixed relative / absolute to only relative.  Setup local Apache 2 web server for testing to avoid frequent file updates to Neocities.  I'm pretty sure their backend is appreciative!  Began drafting the react code to auto populate the topic directory page with content. 

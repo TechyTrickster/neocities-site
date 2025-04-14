@@ -1,11 +1,19 @@
 ---
 title: Guttenberg Press Analysis In R
 summary: a complete, in depth statistical analysis of the English version of the Guttenberg Press
-created-on: 05/12/2020 01:00PM CDT
-last-modified: 12/12/2020 02:00PM CDT
+created_on: 05/12/2020 01:00PM CDT
+last_modified: 12/12/2020 02:00PM CDT
 author: Andrew Phifer
 link: https://github.com/TechyTrickster/GuttenbergPressAnalysisInR
 folder: software
+hero_image: 
+category: coding
+tags:
+  - coding
+  - R
+  - bash
+  - books
+  - Project-Guttenberg
 ---
 
 # Guttenberg Press Analysis in R {#Title}

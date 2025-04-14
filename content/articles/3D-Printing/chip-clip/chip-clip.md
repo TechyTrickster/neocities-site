@@ -1,8 +1,8 @@
 ---
 title: Chip Clip
 summary: an exercise in product design
-created-on: 21/07/2024 05:04PM CDT
-last-modified: 25/09/2024 01:59PM CDT
+created_on: 21/07/2024 05:04PM CDT
+last_modified: 25/09/2024 01:59PM CDT
 author: Andrew Phifer
 link: NA
 category: 3D-Printing
@@ -10,7 +10,7 @@ tags:
   - 3D-Printing
   - Maker
   - PLA
-hero-image: /content/articles/3D-Printing/chip-clip/chip-clip-assemblies-multiple.jpg
+hero_image: /content/articles/3D-Printing/chip-clip/chip-clip-assemblies-multiple.jpg
 ---
 
 

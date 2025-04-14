@@ -1,11 +1,18 @@
 ---
 title: markdown and up
 summary: sidestepping the one more standard problem for markdown
-created-on: 27/08/2024 01:01PM CDT
-last-modified: 09/09/2024 11:38PM CDT
+created_on: 27/08/2024 01:01PM CDT
+last_modified: 09/09/2024 11:38PM CDT
 author: Andrew Phifer
 link: NA
 folder: software
+category: coding
+hero_image: 
+tags:
+  - coding
+  - markdown
+  - GTK4
+  - python
 ---
 
 # Markdown and Up

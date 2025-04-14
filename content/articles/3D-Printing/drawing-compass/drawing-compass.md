@@ -1,11 +1,15 @@
 ---
 title: drawing compass
 summary: a custom 3d printed drawing compass
-created-on: 21/09/2024 07:04PM CDT
-last-modified: 25/09/2024 02:59PM CDT
+created_on: 21/09/2024 07:04PM CDT
+last_modified: 25/09/2024 02:59PM CDT
 author: Andrew Phifer
 link: NA
 folder: maker
+category: 3D-Printing
+hero_image: 
+tags:
+  - 3D-Printing
 ---
 
 ----

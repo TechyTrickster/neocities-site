@@ -1,14 +1,14 @@
 ---
 title: about me
 summary: about the webmaster
-created-on: March 29th, 2025 3:09PM CST
-last-modified: March 30th, 2025 8:50PM CST
+created_on: March 29th, 2025 3:09PM CST
+last_modified: March 30th, 2025 8:50PM CST
 author: Andrew Phifer
 link: 
 category: main
 tags:
   - information
-hero-image:
+hero_image:
 ---
 
 ### About Me
