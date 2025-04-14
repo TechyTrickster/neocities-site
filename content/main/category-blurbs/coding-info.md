@@ -14,7 +14,7 @@ hero_image:
 ### [Coding Projects](/pages/topic_directory?category=coding)
 
 ---
-![coding-hero-image](/content/articles/Coding/national-weather-service/weather-terminal-screen-shot.jpg)
+![coding-hero-image](weather-terminal-screen-shot.jpg)
 
 As a software engineer, this is by far my largest category of work.  I've worked on a wide variety of challenges, from distributed to computing, to large scale text analysis, to small and useful terminal utilities.
 

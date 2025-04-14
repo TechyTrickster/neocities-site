@@ -10,7 +10,7 @@ tags:
   - 3D-Printing
   - Maker
   - PLA
-hero_image: /content/articles/3D-Printing/chip-clip/chip-clip-assemblies-multiple.jpg
+hero_image: /content/articles/3d-printing/chip-clip/chip-clip-assemblies-multiple.jpg
 ---
 
 
@@ -19,11 +19,11 @@ The chip clips were the 4rd project that I worked on after I had gotten my first
 
 As with all my maker projects, i made it in OnShape, exported the models as an stl, and used PrusaSlicer to generate the gcode file for the print.  The design took me a bit longer than it probably should have, with a dozen or so design iterations.  Though this was my first multi-part project, so cut me some slack, ok?  During the course of the project, I learned a lot, like how much spacing tolerance to use on my parts that need to connect with other parts and how to implement those changes (0.3mm, btw).  I learned a lot about how to make better use of the OnShape tools, like variable tables to control shared dimensions of parts!  I also learned that keeping the environment as dry as possible is important!  PLA is more forgiving of ambient humidity than most printer filament, however, it would really prefer that things are below 40%.  If its not, your prints (and mine, of course!) will start stringing. 
 
-![failed print from bad stringing](/content/articles/3D-Printing/chip-clip/chip-clip-print-fail.jpg)
+![failed print from bad stringing](/content/articles/3d-printing/chip-clip/chip-clip-print-fail.jpg)
 
 When things go well, they instead look like this!
 
-![successful print set](/content/articles/3D-Printing/chip-clip/chip-clip-assemblies-multiple.jpg)
+![successful print set](/content/articles/3d-printing/chip-clip/chip-clip-assemblies-multiple.jpg)
 
 (ignore that crater in the second clip from the left, i still don't know what that is, other than its not from stringing.)
 

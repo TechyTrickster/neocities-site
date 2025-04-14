@@ -7,7 +7,7 @@ author: Andrew Phifer
 link: https://cad.onshape.com/documents/32b1c1fc1e5b982098f91033/w/3a09bc64e887457974345148/e/deea77c2b0f5b9e2d25e2f45
 folder: maker
 category: 3D-Printing
-hero_image: /content/articles/3D-Printing/drawing-compass/drawing-compass-prototype.jpg
+hero_image: /content/articles/3d-printing/drawing-compass/drawing-compass-prototype.jpg
 tags:
   - 3D-Printing
   - PLA
@@ -31,7 +31,7 @@ Its the first project on which i used heat set inserts.  There are a few things 
 2. sizing of the mounting holes is nowhere near as sensitive as I though and you really can just eyeball it
 3. freehanding the inserts is straightforward and easy, but also easy to mess up the surface angle.
 
-![prototype](/content/articles/3D-Printing/drawing-compass/drawing-compass-prototype.jpg)
+![prototype](/content/articles/3d-printing/drawing-compass/drawing-compass-prototype.jpg)
 
 the product itself has turned out rather nicely.  Three knobs to adjust and lock in a position, and a single knob to lock in the pencil (ie, a normal drawing compass!)  It feels nice enough in the hand, too!  Overall, it costs about 1 USD worth of materials to make this product at the current prices i'm buying materials at.
 

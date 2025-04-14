@@ -15,6 +15,7 @@ hero_image:
 
 ---
 
+* April 14th, 2025: updated meta data blocks to be more complete. updated all markdown content files to use updated folder structure so that images show up in articles.
 * April 13th, 2025: finished implementing all basic site directory.  all thats left is refinement and writing content.  updated all meta-data blocks so that all articles are viewable.  
 * April 12th, 2025: got a draft of the topic directory page working with react code.  greatly improved the formatting of the topic directory page. (still needs a lot of work! such as page category filtering)  identified a large meta data formatting issue.  will need to update every markdown file on the site.
 * April 11th, 2025: finally committed my huge backlog of changes to github.  hadn't pushed since end of March...  Wrote readme page for github.  continued writing react code for topic directory page template.

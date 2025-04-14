@@ -11,7 +11,7 @@ tags:
   - Maker
   - PLA
   - Stationary
-hero_image: /content/articles/3D-Printing/angle-finder/angle-finder-prototype.jpg
+hero_image: /content/articles/3d-printing/angle-finder/angle-finder-prototype.jpg
 ---
 
 ----
@@ -32,4 +32,4 @@ The construction of the product is fairly simple.  It prints in three pieces;
 
 The upper arm comes in two pieces, held together by 2 18mm m3 steel dowls that are super glued in place.  The supports required while printing are actually minimal, as this design has helped me think about how to effectively orient a print to reduce the number of required supports.  The key is to orient all faces of the model with respect to the build plate at an angle higher than the minimal print angle for slopes.  In my case, thats about 30 degrees from horizontal.  I've been applying this method for a while, but it was really this print that made me figure out exactly why it worked in a formal way due to all the slopes and angled faces in this model.  
 
-![prototype](/content/articles/3D-Printing/angle-finder/angle-finder-prototype.jpg)
+![prototype](/content/articles/3d-printing/angle-finder/angle-finder-prototype.jpg)

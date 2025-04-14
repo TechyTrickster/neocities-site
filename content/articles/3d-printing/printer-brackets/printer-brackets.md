@@ -7,7 +7,7 @@ author: Andrew Phifer
 link: https://cad.onshape.com/documents/3b6f6e154e23f4216f90184d/w/a3dcf286243c62fc4089bbc3/e/7bee1b184952ec87665a0dfe
 folder: maker
 category: 3D-Printing
-hero_image: /content/articles/3D-Printing/printer-brackets/printer-bracket.jpg
+hero_image: /content/articles/3d-printing/printer-brackets/printer-bracket.jpg
 tags:
   - 3D-Printing
 ---
@@ -18,4 +18,4 @@ tags:
 
 Amazingly, against all odds, I got the dimensions and design right the first try!!!
 
-![bracket](/content/articles/3D-Printing/printer-brackets/printer-bracket.jpg)
+![bracket](/content/articles/3d-printing/printer-brackets/printer-bracket.jpg)

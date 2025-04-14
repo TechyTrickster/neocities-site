@@ -12,7 +12,7 @@ tags:
   - pico-8
   - lua
   - pixel-art
-hero-image: /content/articles/Video-Games
+hero_image: /content/articles/games/stellar-star-fighter/stellar_star_fighter_early_development.gif
 ---
 
 ### My First Video Game
@@ -37,6 +37,6 @@ Map:     128 x 32 Tilemap (+ 128 x 32 shared)
 
 As you can see, the system is quite resource limited.  On the other hand, we all know that restrictions like this can *really* get the creative juices flowing!  So far, I'm only a few days into creating the game.  Most of my time has been spent better learning the ins and outs of environment (this isn't quite my first project for the pico-8, but it is my first game), and setting down the plumbing of the game engine, and code stubs, rather than making any functioning code.  At the moment, this is what I have so far.
 
-![[stellar_star_fighter_early_development.gif]]
+![early gif](/content/articles/games/stellar-star-fighter/stellar_star_fighter_early_development.gif)
 
 Just a basic UI and boarder, with an animate player ship.  My plans are to have a playable version of the game available and embedded on this site at some later date!

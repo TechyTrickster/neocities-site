@@ -11,7 +11,7 @@ tags:
   - Maker
   - PLA
   - Cardboard
-hero_image: /content/articles/3D-Printing/cardboard-molding/first-cardboard-molded-part.jpg
+hero_image: /content/articles/3d-printing/cardboard-molding/first-cardboard-molded-part.jpg
 ---
 
 
@@ -21,7 +21,7 @@ Years ago, before I got into 3D printing and product design, I saw a video on cr
 
 Almost immediately after getting my first 3D printer, i started trying to create multi-part molds to make cardboard parts.  the first product is actually still on my desk, as, amazingly, it didn't fall apart when i took it out!
 
-![my first cardboard molded part](/content/articles/3D-Printing/cardboard-molding/first-cardboard-molded-part.jpg)
+![my first cardboard molded part](/content/articles/3d-printing/cardboard-molding/first-cardboard-molded-part.jpg)
 
 
 

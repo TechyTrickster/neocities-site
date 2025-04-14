@@ -12,14 +12,14 @@ tags:
   - PLA
   - video-games
   - replacement-parts
-hero_image: /content/articles/3D-Printing/miyoo-mini-plus-case/miyoo-mini-plus-shell-prototype-1.jpg
+hero_image: /content/articles/3d-printing/miyoo-mini-plus-case/miyoo-mini-plus-shell-prototype-1.jpg
 ---
 
 ----
 
 This is a project I've been working on to create a custom shell for the Miyoo Mini Plus, a popular retro hand held.
 
-![original device](/content/articles/3D-Printing/miyoo-mini-plus-case/miyoo-mini-plus-original.jpg)
+![original device](/content/articles/3d-printing/miyoo-mini-plus-case/miyoo-mini-plus-original.jpg)
 
 I have three goals in mind for this project
 1. to grow my reverse engineering skills
@@ -29,4 +29,4 @@ I have three goals in mind for this project
 
 so far, i have created a prototype model in onshape for the device based on a large number of measurements I've made using my digital calipers.  The first print of that prototype had a number of issues, including button hole alignment, and button hole tolerance.  
 
-![early prototype shell](/content/articles/3D-Printing/miyoo-mini-plus-case/miyoo-mini-plus-shell-prototype-1.jpg)
+![early prototype shell](/content/articles/3d-printing/miyoo-mini-plus-case/miyoo-mini-plus-shell-prototype-1.jpg)
