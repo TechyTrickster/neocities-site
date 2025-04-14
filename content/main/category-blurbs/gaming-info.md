@@ -11,7 +11,7 @@ tags:
 hero-image:
 ---
 
-### [Games](/pages/topic_directory.html?category=games)
+### [Games](/pages/topic_directory?category=games)
 
 ---
 ![stellar-star-fighter-early-work.png](/content/articles/Video-Games/Stellar-Star-Fighter/stellar_star_fighter_early_development.gif)

@@ -11,7 +11,7 @@ tags:
 hero-image:
 ---
 
-### [Art](/pages/topic_directory.html?category=art)
+### [Art](/pages/topic_directory?category=art)
 
 ---
 

@@ -11,7 +11,7 @@ tags:
 hero-image:
 ---
 
-### [Writing](/pages/topic_directory.html?category=writing)
+### [Writing](/pages/topic_directory?category=writing)
 
 ---
 

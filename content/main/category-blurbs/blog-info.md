@@ -11,7 +11,7 @@ tags:
 hero-image:
 ---
 
-### [Personal Blog](/pages/topic_directory.html?category=blog)
+### [Personal Blog](/pages/topic_directory?category=blog)
 
 ---
 

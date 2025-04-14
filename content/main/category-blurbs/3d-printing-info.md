@@ -13,7 +13,7 @@ tags:
 hero_image: /content/main/category-blurbs/3d-printing-hero-image.jpg
 ---
 
-### [3D Printing](/pages/topic_directory.html?category=3d-printing)
+### [3D Printing](/pages/topic_directory?category=3d-printing)
 
 ---
 ![3d printing hero image](/content/main/category-blurbs/3d-printing-hero-image.jpg)

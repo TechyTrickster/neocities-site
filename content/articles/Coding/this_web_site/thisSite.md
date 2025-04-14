@@ -60,7 +60,7 @@ in order to keep page load times manageable, i've been using ffmpeg[^1], a popul
 
 
 
-[^1]: [https://www.ffmpeg.org/about.html](https://www.ffmpeg.org/about.html) - ffmpeg about page
+[^1]: [https://www.ffmpeg.org/about](https://www.ffmpeg.org/about) - ffmpeg about page
 [^2]: [link](/maker/miyoo-mini-plus-case) - Miyoo Mini Shell Project
 
 

@@ -39,7 +39,7 @@
 
         const TheHeader = () =>
             <div id = "header" className = "container shadow-lg headline rounded-bottom-4 item mb-4 pt-3">
-                <h1><a href = "/pages/home_page.html">A Techy Domain</a></h1>
+                <h1><a href = "/pages/home_page">A Techy Domain</a></h1>
             </div>
 
         const TheFooter = () =>
@@ -49,7 +49,7 @@
 
         const NavElement = ({display, category}) =>
             <div className = "container col shadow-lg rounded-4 m-2 p-3" style = {{display: "flex", justifyContent: "center", backgroundColor: "antiquewhite"}}>
-                <a href = {"/pages/topic_directory.html?category=" + encodeURIComponent(category)}>{display}</a>
+                <a href = {"/pages/topic_directory?category=" + encodeURIComponent(category)}>{display}</a>
             </div>
 
         const NavBanner = ({navElements}) =>
@@ -64,7 +64,7 @@
             <div className = "container row rounded-3 m-2" style = {{backgroundColor: "antiquewhite"}}>
                 <img src = {hero_image} className = "col-5 container rounded-3 p-3"></img>
                 <div className = "container col p-3">
-                    <h3><a href={'/pages/content.html?path=' + encodeURIComponent(path)}>{title}</a></h3>
+                    <h3><a href={'/pages/content?path=' + encodeURIComponent(path)}>{title}</a></h3>
                     <span>created on: {created_on}   </span>
                     <span>modified on: {last_modified}   </span>
                     <br/>

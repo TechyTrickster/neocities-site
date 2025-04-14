@@ -11,7 +11,7 @@ tags:
 hero-image:
 ---
 
-### [Coding Projects](/pages/topic_directory.html?category=coding)
+### [Coding Projects](/pages/topic_directory?category=coding)
 
 ---
 ![coding-hero-image](/content/articles/Coding/national-weather-service/weather-terminal-screen-shot.jpg)
