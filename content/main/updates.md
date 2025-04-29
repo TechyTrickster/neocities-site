@@ -15,6 +15,7 @@ hero_image:
 
 ---
 
+* April 28th, 2025: fixed home page update and article boxes to use up a reasonable amount of space.  added empty place-holder folders for projects that I've worked on.  wrote up an article for my adventures in puzzle making.  wrote first blog post. wrote bash script to scale images in a consistent manner, conducive to a responsive site. 
 * April 14th, 2025: updated meta data blocks to be more complete. updated all markdown content files to use updated folder structure so that images show up in articles.
 * April 13th, 2025: finished implementing all basic site directory.  all thats left is refinement and writing content.  updated all meta-data blocks so that all articles are viewable.  
 * April 12th, 2025: got a draft of the topic directory page working with react code.  greatly improved the formatting of the topic directory page. (still needs a lot of work! such as page category filtering)  identified a large meta data formatting issue.  will need to update every markdown file on the site.
