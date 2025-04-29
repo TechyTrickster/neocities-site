@@ -55,6 +55,8 @@ this will create the new site digest, making your new article viewable on the si
 4. finish documenting all my projects
 5. ==compress all the hosted images on the site to improve loading times and reduce page memory footprint==
 6. finish writing site inventory script
+7. update all content files with the new meta data format
+8. work around encodeURIComponent bug
 
 
 ### Tutorials Used
