@@ -14,19 +14,12 @@ var getMarkDownPage = (pageName, target) => {
 var preprocess = (originalText, metaData) =>
 {
     var buffer = originalText
-    console.log("preprocess")
-    console.log(metaData)
 
     for(const prop in metaData)
     {        
         try {
             target = "`=this." + prop + '`'
-            console.log(target)
-            console.log(metaData)
-            console.log(prop)
-            console.log(metaData[prop])
             buffer = buffer.replaceAll(target, metaData[prop])
-            console.log(buffer)
         }
         catch(error)
         {console.log(error)}
@@ -40,11 +33,7 @@ var preprocess = (originalText, metaData) =>
 
 var markDownApply = (text, targetID) => {
     var [metaDatas, htmlData] = markDownFullDecode(text)
-    document.getElementById(targetID).innerHTML = htmlData;    
-    console.log("apply start")
-    console.log(metaDatas)
-    console.log(htmlData)
-    console.log("apply end")
+    document.getElementById(targetID).innerHTML = htmlData;        
     return metaDatas
 }
 
@@ -57,7 +46,6 @@ var markDownFullDecode = (text) =>
 
     converter.setFlavor('github'); 
     
-    
     var htmlDataUnused = converterMeta.makeHtml(pageContent);    
     var metaInitial = converterMeta.getMetadata();
     console.log("meta data");
@@ -66,13 +54,7 @@ var markDownFullDecode = (text) =>
 
     var htmlData = converter.makeHtml(processedMarkdown);
     htmlData = htmlData.replaceAll("#", "")
-    var meta = converter.getMetadata();
-
-    console.log("decode start")
-    console.log(text)
-    console.log(htmlData)
-    console.log(meta)
-    console.log("decode end")
+    var meta = converter.getMetadata();    
     return [meta, htmlData]
 }
 
