@@ -48,13 +48,11 @@ var markDownFullDecode = (text) =>
     
     var htmlDataUnused = converterMeta.makeHtml(pageContent);    
     var metaInitial = converterMeta.getMetadata();
-    console.log("meta data");
-    console.log(metaInitial);
     var processedMarkdown = preprocess(pageContent, metaInitial);
 
     var htmlData = converter.makeHtml(processedMarkdown);
     htmlData = htmlData.replaceAll("#", "")
-    var meta = converter.getMetadata();    
+    var meta = converter.getMetadata();
     return [meta, htmlData]
 }
 
