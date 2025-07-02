@@ -97,7 +97,7 @@
         fetch(headerMarkDownRequest)
             .then((response) => response.text()) //load header data
             .then((text) => {
-                var metaData, info = markDownFullDecode(text)
+                var [metaData, info] = markDownFullDecode(text)
                 var digestRequest = new Request("/content.json")
                 console.log("created digest request")
 
