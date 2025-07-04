@@ -11,9 +11,18 @@ var getMarkDownPage = (pageName, target) => {
 }
 
 
-var preprocess = (originalText, metaData) =>
+var preprocess = async (originalText, metaData) =>
 {
     var buffer = originalText
+
+    //process commit info
+    var hasGitLink = metaData['link'].search("git") != -1
+    if(hasGitLink)
+    {
+        var response = await fetch('https://api.github.com/repos/https://github.com/TechyTrickster/neocities-site/commits?per_page=1')
+        var data = await response.json()[0]
+        console.log(data)        
+    }
 
     //handle metadata
     for(const prop in metaData)
@@ -26,12 +35,7 @@ var preprocess = (originalText, metaData) =>
         {console.log(error)}
     }
 
-    //process commit info
-    var hasGitLink = metaData['link'].search("git") != -1
-    if(hasGitLink)
-    {
-        
-    }
+    
 
     const output = buffer
     return output
