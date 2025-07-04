@@ -15,6 +15,7 @@ var preprocess = (originalText, metaData) =>
 {
     var buffer = originalText
 
+    //handle metadata
     for(const prop in metaData)
     {        
         try {
@@ -23,6 +24,12 @@ var preprocess = (originalText, metaData) =>
         }
         catch(error)
         {console.log(error)}
+    }
+
+    //process commit info
+    var hasGitLink = metaData['link'].search("git") != -1
+    if(hasGitLink)
+    {
         
     }
 
@@ -53,6 +60,7 @@ var markDownFullDecode = (text) =>
     var htmlData = converter.makeHtml(processedMarkdown);
     htmlData = htmlData.replaceAll("#", "")
     var meta = converter.getMetadata();
+    console.log(htmlData)
     return [meta, htmlData]
 }
 
